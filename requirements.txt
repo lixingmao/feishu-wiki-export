@@ -1,0 +1,14 @@
+baseopensdk @ https://lf3-static.bytednsdoc.com/obj/eden-cn/lmeh7phbozvhoz/base-open-sdk/baseopensdk-0.0.13-py3-none-any.whl#sha256=e9c517a4ab4b2a18bd35b4391574f63d7efdbe533fe02049acf0efe971ee5f8e
+blinker==1.8.2
+certifi==2024.6.2
+charset-normalizer==3.3.2
+click==8.1.7
+Flask==3.0.3
+idna==3.7
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+requests==2.32.3
+requests-toolbelt==1.0.0
+urllib3==2.2.2
+Werkzeug==3.0.3
